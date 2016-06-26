@@ -33,7 +33,7 @@
     "concurrently": "^2.0.0",
     "lite-server": "^2.2.0",
     "typescript": "^1.8.10",
-    "typings":"^1.0.4"
+    "typings":"^1.0.4",
     "express" : "3.x", 
     "consolidate" : "0.4.x", 
     "swig": "0.12.x"  
